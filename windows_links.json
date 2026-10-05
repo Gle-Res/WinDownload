@@ -1,0 +1,93 @@
+{
+  "program_name": {
+    "zh": "Windows 镜像下载器",
+    "en": "Windows Image Downloader"
+  },
+  "versions": [
+    {
+      "id": "win7",
+      "name_zh": "Windows 7 旗舰版 SP1",
+      "name_en": "Windows 7 Ultimate SP1",
+      "build": "7601.27820",
+      "edition": "SP1",
+      "links": {
+        "zh": {
+          "type": "bt",
+          "url": "magnet:?xt=urn:btih:E86414F638E11104248108B155BE9408A8362509&dn=cn_windows_7_ultimate_with_sp1_x64_dvd_u_677408.iso&xl=3420557312"
+        },
+        "en": {
+          "type": "bt",
+          "url": "magnet:?xt=urn:btih:0499F84DB242096F2185E38B696CD3D6C8D0E62C&dn=7601.24214.180801-1700.win7sp1_ldr_escrow_CLIENT_ULTIMATE_x64FRE_en-us.iso&xl=5876357120"
+        }
+      }
+    },
+    {
+      "id": "win8",
+      "name_zh": "Windows 8 RTM",
+      "name_en": "Windows 8 RTM",
+      "build": "9200.23000",
+      "edition": "RTM",
+      "links": {
+        "zh": {
+          "type": "ed2k",
+          "url": "ed2k://|file|cn_windows_8_x64_dvd_915407.iso|3652950016|5C7F8C212BD3A1827866563773A431C2|/"
+        },
+        "en": {
+          "type": "bt",
+          "url": ""
+        }
+      }
+    },
+    {
+      "id": "win8.1",
+      "name_zh": "Windows 8.1 企业版 Update",
+      "name_en": "Windows 8.1 Enterprise Update",
+      "build": "9600.22000",
+      "edition": "Update",
+      "links": {
+        "zh": {
+          "type": "ed2k",
+          "url": "ed2k://|file|cn_windows_8.1_enterprise_with_update_x64_dvd_6050374.iso|4317065216|AC8215A13817CC0EC4EA42E5C92E88B7|/"
+        },
+        "en": {
+          "type": "bt",
+          "url": ""
+        }
+      }
+    },
+    {
+      "id": "win10",
+      "name_zh": "Windows 10 消费者版 22H2",
+      "name_en": "Windows 10 Consumer 22H2",
+      "build": "19045.5247",
+      "edition": "22H2",
+      "links": {
+        "zh": {
+          "type": "bt",
+          "url": "magnet:?xt=urn:btih:d5146f69f1bb6b9d95c8270769ebca7f82c2936a&dn=zh-cn_windows_10_consumer_editions_version_22h2_updated_oct_2025_x64_dvd_38efd00d.iso&xl=7168839680"
+        },
+        "en": {
+          "type": "bt",
+          "url": ""
+        }
+      }
+    },
+    {
+      "id": "win11-25h2",
+      "name_zh": "Windows 11 消费者版 26H2",
+      "name_en": "Windows 11 Consumer 26H2",
+      "build": "26300.9550",
+      "edition": "26H2",
+      "links": {
+        "zh": {
+          "type": "bt",
+          "url": "magnet:?xt=urn:btih:fd365d7f570ae355084dfd85e4829b19a628f81b&dn=zh-cn_windows_11_consumer_editions_version_26h2_x64_dvd_3622091b.iso&xl=9112440832"
+        },
+        "en": {
+          "type": "bt",
+          "url": ""
+        }
+      }
+    }
+  ]
+}
